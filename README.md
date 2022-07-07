@@ -22,7 +22,7 @@ Exponential Smoothing;
 
 Regressão Linear;
 
-### Métrica de acurácia utilizadas
+### Métricas de acurácia utilizadas
 Bias Forecast (consistent forecast error);
 
 MAPE (Mean Absolute Percentage);
