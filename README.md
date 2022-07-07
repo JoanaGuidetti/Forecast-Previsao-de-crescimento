@@ -3,6 +3,7 @@
 
 ### Objetivo do projeto
 Fazer a previsão crescimento das vendas dos próximos (12 meses).
+
 A projeção de vendas, consiste em fazer o cálculo aproximado das vendas em determinado período no futuro, utilizando a análise de dados dos números das vendas realizadas em meses ou anos anteriores, e com isso fazer a projeção de crescimento do número de vendas no futuro. 
 Primeira Etapa, foi entender como funciona o negócio, quais são os canais de aquisição de clientes da empresa.
 Os clientes da empresa são obtidos através do tráfego orgânico e do tráfego pago.
