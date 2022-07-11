@@ -45,4 +45,4 @@ Para confirmar esse dado, utilizei o Solver, para checar se os valores atribuíd
 
 
 
-KAGGLE. Conjunto de dados. Kaggle, Datasets. São Paulo, 2022 Dispopnível [aqui](https://www.kaggle.com/olistbr/marketing-funnel-olist/home?select=olist_marketing_qualified_leads_dataset.csv). Acesso em Junho - 2022.
+KAGGLE. Conjunto de dados. Kaggle, Datasets. São Paulo, 2022 Disponível [aqui](https://www.kaggle.com/olistbr/marketing-funnel-olist/home?select=olist_marketing_qualified_leads_dataset.csv). Acesso em Junho - 2022.
